@@ -13,7 +13,7 @@ class App extends Tasks {
                 <header className="app-header slide-down">
                     <h1>🚀 3-Tier Application Project - To-Do List</h1>
                     <p className="subtitle">
-                        Built with MERN Stack & Deployed on AWS EKS
+                        Built with MERN Stack & Deployed on EKS
                     </p>
                 </header>
 

@@ -13,8 +13,10 @@ body {
     align-items: center;
     min-height: 100vh;
     padding: 20px;
-    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    background: linear-gradient(135deg, #ff9966, #ff5e62); /* Warm sunset colors */
 }
+
+
 
 /* Optional: Add some more global styles for typography */
 h1, h2, h3, h4, h5, h6 {
